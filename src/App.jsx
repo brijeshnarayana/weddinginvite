@@ -232,8 +232,10 @@ export default function App() {
             <p className="bless">{CONFIG.blessing}</p>
             <div className="couple-names">
               <div className="nm"><span className="pre">Chi.</span>Brijesh Narayana Punjari</div>
+              <div className="parent-line">(Only S/o. Smt. &amp; Sri Punjari Usha Rani - Mahesh Narayana)</div>
               <div className="withword">with</div>
               <div className="nm"><span className="pre">Chi.La.Sow</span>Sai Srinija Sakinala</div>
+              <div className="parent-line">(Only D/o. Smt. &amp; Sri Sakinala Kumudini - Srinivas)</div>
             </div>
             <div className="gold-rule">
               <span className="dot" />
@@ -361,9 +363,8 @@ export default function App() {
             <Diya /> <Diya /> <Diya />
           </div>
           <h2 className="clh reveal d1">
-            We can't wait to <em>celebrate</em> with you.
+            Your presence is the only <em>blessing</em> we ask for.
           </h2>
-          <p className="cls reveal d2">Your presence is the only blessing we ask for.</p>
 
           {waLink && (
             <button className="rsvp reveal d3" onClick={() => window.open(waLink, "_blank")}>

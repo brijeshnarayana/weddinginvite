@@ -130,6 +130,7 @@
 .invite .couple-names{margin:26px 0 6px}
 .invite .couple-names .nm{font-family:'Cormorant Garamond',serif;font-size:clamp(28px,5.4vw,46px);color:var(--maroon);font-weight:600;line-height:1.05}
 .invite .couple-names .nm .pre{font-family:'EB Garamond',serif;font-style:italic;font-weight:500;color:#7a5637;font-size:clamp(14px,2vw,18px);margin-right:.35em}
+.invite .couple-names .parent-line{font-family:'EB Garamond',serif;font-style:italic;font-weight:400;color:#7a5637;font-size:clamp(12px,1.9vw,15px);line-height:1.45;margin-top:5px}
 .invite .couple-names .amp2{font-family:'Tangerine',cursive;font-size:clamp(40px,8vw,68px);color:var(--marigold);line-height:.4;display:block;margin:6px 0}
 .invite .couple-names .withword{font-family:'EB Garamond',serif;font-style:italic;color:var(--marigold);font-size:clamp(16px,2.6vw,20px);margin:8px 0}
 .invite .parents{margin-top:18px}
